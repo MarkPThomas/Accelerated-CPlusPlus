@@ -1,0 +1,26 @@
+0-0: See Ch0-0
+
+0-1:
+Adds 3+4 to equal 7
+
+0-2: See Ch0-2
+
+0-3: See Ch0-3
+
+0-4: See Ch0-3
+
+0-5: No. The expression does not lie within curly braces denoting the function block.
+
+0-6: Yes. The epxpression lies within a closed set of curly braces denoting the function block.
+
+0-7: Yes. See Ch0-3
+
+0-8: Yes.
+
+0-9: A program with only a main function. Such as:
+
+int main() {}
+
+See Ch0-09
+
+0-10: See Ch0-10

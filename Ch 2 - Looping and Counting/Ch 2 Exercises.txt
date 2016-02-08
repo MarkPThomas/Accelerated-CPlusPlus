@@ -1,0 +1,25 @@
+2-0: See Ch2-0
+
+2-1: Done.
+
+2-2: See Ch2-2
+
+2-3: See Ch2-3
+
+2-4: See Ch2-4
+
+2-5: See Ch2-5
+
+2-6: Prints the numbers 1-10, each on a separate line
+
+2-7: See Ch2-7
+
+2-8: See Ch2-8
+
+2-9: See Ch2-9
+
+2-10: 
+	using std::cout - creating a shorthand name for the namespace and method reference
+	std::cout - references the method in the namespace
+	std::endl - references the method in the namespace
+

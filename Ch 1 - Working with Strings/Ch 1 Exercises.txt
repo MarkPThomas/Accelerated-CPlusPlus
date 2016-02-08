@@ -1,0 +1,16 @@
+1-0: See Ch1-0, Ch1-2
+
+1-1: The second line is invalid because it is concatenating two string literals.
+
+1-2: The second line is invalid because it is concatenating two string literals.
+
+1-3: Yes. Prints two lines: "a string" and "another string". See Ch1-3.
+
+1-4: Yes. The second initialiation of 's' occurs in a sub-scope. Yes, again, as the ';' in the preceding line ends the earlier expression. This ';' merely ends an expression that has already been ended within the scope '{}' characters.
+
+1-5: No. Variable 'x' is called outside of its scope. Either move 'x' to a higher level of scope, or bring the call to it for 'cout' to a lower scope.
+
+1-6: Program will ask for one name, greet the person of that name, then ask for the next person's name. This next name is also greeted.
+
+
+   
