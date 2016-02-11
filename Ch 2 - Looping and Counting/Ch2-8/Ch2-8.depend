@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1454900854 source:c:\users\mark\documents\github\cplusplus\accelerated-cplusplus\ch 2 - looping and counting\ch2-8\main.cpp
+	<iostream>
+	<string>
+	<sstream>
+

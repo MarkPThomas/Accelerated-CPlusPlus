@@ -1,0 +1,7 @@
+3-0: Done
+
+3-1: Eh? At the very least, none of the last (half - 1) values can be discarded. However, the number of items needs to be tracked, and the set still has to grow at about half of the original rate.
+
+3-2: See Ch3-2
+
+3-3
