@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1455258357 source:c:\users\mark\documents\github\cplusplus\accelerated-cplusplus\ch 3 - working with batches of data\ch3-4\main.cpp
+	<iostream>
+	<string>
+	<vector>
+
