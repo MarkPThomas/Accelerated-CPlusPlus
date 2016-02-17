@@ -2,22 +2,21 @@
 <CodeBlocks_project_file>
 	<FileVersion major="1" minor="6" />
 	<Project>
-		<Option title="Ch3-3" />
+		<Option title="Ch4-0-0" />
 		<Option pch_mode="2" />
 		<Option compiler="gcc" />
 		<Build>
 			<Target title="Debug">
-				<Option output="bin/Debug/Ch3-3" prefix_auto="1" extension_auto="1" />
+				<Option output="bin/Debug/Ch4-0-0" prefix_auto="1" extension_auto="1" />
 				<Option object_output="obj/Debug/" />
 				<Option type="1" />
 				<Option compiler="gcc" />
 				<Compiler>
-					<Add option="-std=c++11" />
 					<Add option="-g" />
 				</Compiler>
 			</Target>
 			<Target title="Release">
-				<Option output="bin/Release/Ch3-3" prefix_auto="1" extension_auto="1" />
+				<Option output="bin/Release/Ch4-0-0" prefix_auto="1" extension_auto="1" />
 				<Option object_output="obj/Release/" />
 				<Option type="1" />
 				<Option compiler="gcc" />

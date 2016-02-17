@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1455695197 source:c:\users\mark\documents\github\cplusplus\accelerated-cplusplus\ch 4 - organizing programs & data\ch4-0-1\grade.cpp
+	<stdexcept>
+	<vector>
+	"grade.h"
+	"median.h"
+	"Student_info.h"
+
+1455694621 c:\users\mark\documents\github\cplusplus\accelerated-cplusplus\ch 4 - organizing programs & data\ch4-0-1\grade.h
+	<vector>
+	"Student_info.h"
+
+1455694234 c:\users\mark\documents\github\cplusplus\accelerated-cplusplus\ch 4 - organizing programs & data\ch4-0-1\student_info.h
+	<iostream>
+	<string>
+	<vector>
+
+1455693718 c:\users\mark\documents\github\cplusplus\accelerated-cplusplus\ch 4 - organizing programs & data\ch4-0-1\median.h
+	<vector>
+
