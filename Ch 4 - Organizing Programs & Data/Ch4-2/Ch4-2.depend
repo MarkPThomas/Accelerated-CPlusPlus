@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1456291369 source:c:\users\mark\documents\github\cplusplus\accelerated-cplusplus\ch 4 - organizing programs & data\ch4-2\main.cpp
+	<algorithm>
+	<iomanip>
+	<iostream>
+	<vector>
+

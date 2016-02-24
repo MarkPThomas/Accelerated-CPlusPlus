@@ -1,1 +1,17 @@
-4-0: See Ch4-0
+4-0: See Ch4-0-1
+
+4-1: The code will not work because one of the parameters is of a different type. maxlen should be defined as such: string::size_type maxlen;
+
+4-2: See Ch4-2
+
+4-3: See Ch4-3
+
+4-4: See Ch4-4
+
+4-5:
+
+4-6:
+
+4-7:
+
+4-8: The return type of f is a double.
