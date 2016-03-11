@@ -1,14 +1,47 @@
 # depslib dependency file v1.0
-1456293694 source:c:\users\mark\documents\github\cplusplus\accelerated-cplusplus\ch 4 - organizing programs & data\ch4-4\count_numbers.cpp
+1456296489 source:c:\users\mark\documents\github\cplusplus\accelerated-cplusplus\ch 4 - organizing programs & data\ch4-4\count_numbers.cpp
 	"count_numbers.h"
+	"convert_number_to_string.h"
 
-1456293905 c:\users\mark\documents\github\cplusplus\accelerated-cplusplus\ch 4 - organizing programs & data\ch4-4\count_numbers.h
-	<vector>
+1456296801 c:\users\mark\documents\github\cplusplus\accelerated-cplusplus\ch 4 - organizing programs & data\ch4-4\count_numbers.h
 
-1456293999 source:c:\users\mark\documents\github\cplusplus\accelerated-cplusplus\ch 4 - organizing programs & data\ch4-4\fill_vector.cpp
+1456297612 source:c:\users\mark\documents\github\cplusplus\accelerated-cplusplus\ch 4 - organizing programs & data\ch4-4\fill_vector.cpp
 	<vector>
 	"fill_vector.h"
 
-1456293905 c:\users\mark\documents\github\cplusplus\accelerated-cplusplus\ch 4 - organizing programs & data\ch4-4\fill_vector.h
+1456297726 c:\users\mark\documents\github\cplusplus\accelerated-cplusplus\ch 4 - organizing programs & data\ch4-4\fill_vector.h
 	<vector>
+
+1456297055 source:c:\users\mark\documents\github\cplusplus\accelerated-cplusplus\ch 4 - organizing programs & data\ch4-4\convert_number_to_string.cpp
+	<sstream>
+	<string>
+	"convert_number_to_string.h"
+
+1456296847 c:\users\mark\documents\github\cplusplus\accelerated-cplusplus\ch 4 - organizing programs & data\ch4-4\convert_number_to_string.h
+	<string>
+
+1456297630 source:c:\users\mark\documents\github\cplusplus\accelerated-cplusplus\ch 4 - organizing programs & data\ch4-4\main.cpp
+	<iomanip>
+	<iostream>
+	<vector>
+	"count_numbers.h"
+	"fill_vector.h"
+	"square_vector.h"
+	"vector_width.h"
+
+1456294380 c:\users\mark\documents\github\cplusplus\accelerated-cplusplus\ch 4 - organizing programs & data\ch4-4\square_vector.h
+	<vector>
+
+1456294474 c:\users\mark\documents\github\cplusplus\accelerated-cplusplus\ch 4 - organizing programs & data\ch4-4\vector_width.h
+	<vector>
+
+1456294380 source:c:\users\mark\documents\github\cplusplus\accelerated-cplusplus\ch 4 - organizing programs & data\ch4-4\square_vector.cpp
+	<vector>
+	"square_vector.h"
+
+1456294474 source:c:\users\mark\documents\github\cplusplus\accelerated-cplusplus\ch 4 - organizing programs & data\ch4-4\vector_width.cpp
+	<algorithm>
+	<vector>
+	"vector_width.h"
+	"count_numbers.h"
 

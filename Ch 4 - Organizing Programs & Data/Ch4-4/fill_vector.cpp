@@ -4,24 +4,18 @@
 
 using namespace std;
 
-vector<int> fill_vector(int maxNum)
+void fill_vector(vector<int>& vec, int maxNum)
 {
-    vector<int> values;
     for (int i = 0; i <= maxNum; ++i)
     {
-        values.push_back(i);
+        vec.push_back(i);
     }
-
-    return values;
 }
 
-vector<double> fill_vector(int maxNum)
+void fill_vector(vector<double>& vec, int maxNum)
 {
-    vector<double> values;
     for (int i = 0; i <= maxNum; ++i)
     {
-        values.push_back((double)i);
+        vec.push_back(i);
     }
-
-    return values;
 }

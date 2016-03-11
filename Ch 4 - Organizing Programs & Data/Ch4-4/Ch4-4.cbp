@@ -32,7 +32,17 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Unit filename="convert_number_to_string.cpp" />
+		<Unit filename="convert_number_to_string.h" />
+		<Unit filename="count_numbers.cpp" />
+		<Unit filename="count_numbers.h" />
+		<Unit filename="fill_vector.cpp" />
+		<Unit filename="fill_vector.h" />
 		<Unit filename="main.cpp" />
+		<Unit filename="square_vector.cpp" />
+		<Unit filename="square_vector.h" />
+		<Unit filename="vector_width.cpp" />
+		<Unit filename="vector_width.h" />
 		<Extensions>
 			<code_completion />
 			<envvars />

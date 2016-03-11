@@ -3,7 +3,7 @@
 
 #include <vector>
 
-std::vector<int> fill_vector(int);
-std::vector<double> fill_vector(double);
+void fill_vector(std::vector<int>&, int);
+void fill_vector(std::vector<double>&, int);
 
 #endif

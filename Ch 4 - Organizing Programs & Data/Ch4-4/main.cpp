@@ -18,10 +18,11 @@ int main()
     cin >> maxNum;
 
     // First column lists values of Ints up to 100
-    vector<int> values = fill_vector(maxNum);
+    vector<double> values;
+    fill_vector(values, maxNum);
 
     // Second column contains the square of each value
-    vector<int> squares = square_vector(values);
+    vector<double> squares = square_vector(values);
 
     // Use setw to align columns in the output
     for (vec_sz i = 0; i < values.size(); ++i)
